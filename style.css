@@ -1,4 +1,4 @@
-/* Reset default margin and padding for HTML and body */
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
 html, body {
     margin: 0;
     padding: 0;
